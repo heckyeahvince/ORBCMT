@@ -1,7 +1,5 @@
 # Consensus-based Matching and Tracking using ORB features Android
 
-cmt-orb-melvincabatuan created by Classroom for GitHub
-
 - Original algorithm by Georg Nebehay and Roman Pflugfelder, "Clustering of Static-Adaptive Correspondences for Deformable Object Tracking", CVPR 2015
 - This exercise is inspired by Jesus Ayuso's work here: https://github.com/ayuso2013/OpenCVSamples  (in Eclipse)
 
@@ -178,26 +176,3 @@ dependencies {
 }
 ```
 
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/5e1ad0d12dffda243d75eafaa9b92d84
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/cmt-orb-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-"*C++ : Where friends have access to your private members.*" -  Gavin Russell Baker
